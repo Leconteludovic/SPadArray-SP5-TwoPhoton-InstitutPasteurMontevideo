@@ -1,0 +1,13 @@
+# Sensitive / proprietary files — not public
+hardware/solidworks/
+hardware/electronics/
+software/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.bak
+~$*
